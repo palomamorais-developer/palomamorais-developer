@@ -8,7 +8,7 @@ I've been learning to code about 3 years and really passionate with web developm
 
 * 🌍  I'm based in Terezina-PI, Brazil
 * ✉️  You can contact me at [palomamorais.developer@gmail.com](mailto:palomamorais.developer@gmail.com)
-* 🚀  I'm currently working on [Castgroup](http://www.castgroup.com.br/pt/)
+* 🚀  Studying game development!
 * 🧠  I'm learning React JS, Javascript, Typescript, Vue JS, React Native
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  Also I am gamer :D
