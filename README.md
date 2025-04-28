@@ -1,17 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Paloma Morais
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Paloma 
 =====================================================================================================================================
 
-Front-end Developer and UI Designer
+Game Developer
 -----------------------------------
 
-I've been learning to code about 3 years and really passionate with web development. Now I have 1.5 years of experience in React and Javascript, plus 3 years of HTML, CSS.
-
-* 🌍  I'm based in Terezina-PI, Brazil
-* ✉️  You can contact me at [palomamorais.developer@gmail.com](mailto:palomamorais.developer@gmail.com)
-* 🚀  Studying game development!
-* 🧠  I'm learning React JS, Javascript, Typescript, Vue JS, React Native
-* 🤝  I'm open to collaborating on interesting projects
-* ⚡  Also I am gamer :D
+* 🌍  Brazil
+* ✉️  E-mail(mailto:palomamorais.developer@gmail.com)
+* 🧠  Learning Godot
 
 ### Skills
 
